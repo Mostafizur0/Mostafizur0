@@ -1,67 +1,160 @@
-<!-- ================= HEADER ================= -->
+# Mostafizur Rahman | DevOps Engineer
 
-<h1 align="center">Mostafizur Rahman</h1>
-<h3 align="center">DevOps Engineer | Cloud | Kubernetes | SRE</h3>
+[LinkedIn](http://www.linkedin.com/in/mostafizurrahman-cuet) | 
+[GitHub](https://github.com/Mostafizur0) | 
+[LeetCode](https://leetcode.com/Mostafizur0)  
 
-<p align="center">
-  <a href="http://www.linkedin.com/in/mostafizurrahman-cuet">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/Mostafizur0">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://leetcode.com/Mostafizur0">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode">
-  </a>
-</p>
-
-<p align="center">
-📍 Dhaka, Bangladesh &nbsp; | &nbsp;
-📧 mrahmansabbir@gmail.com &nbsp;
-</p>
+📍 Dhaka, Bangladesh  
+📧 mrahmansabbir@gmail.com  
+📱 +880 1831576862  
 
 ---
 
-# ⚡ Impact Snapshot
+## 🚀 About Me
 
-- 🚀 50% Faster Deployments
-- 💰 61% AWS Testing Cost Reduction
-- 🏗 8x Kubernetes Cost Optimization
-- 👥 Supported 20M+ Monthly Active Users
-- 🔐 Enterprise-level Cloud Security Guardrails
+DevOps Engineer specializing in:
 
----
+- Modular Infrastructure as Code (Terraform, CDKTF)
+- Automated CI/CD Pipelines
+- Multi-tenant Kubernetes Cluster Optimization
+- Full-Stack Observability
+- Cloud Cost Optimization at Scale
 
-# 🛠 Tech Stack
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
-![CDKTF](https://img.shields.io/badge/CDKTF-5C4EE5?style=for-the-badge)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo)
-
-### ☸ Kubernetes Ecosystem
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
-![Linkerd](https://img.shields.io/badge/Linkerd-2BEDA7?style=for-the-badge)
-
-### 📊 Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![Loki](https://img.shields.io/badge/Loki-000000?style=for-the-badge)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog)
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+📈 Impact Delivered:
+- 50% Faster Deployments
+- 61% AWS Testing Cost Reduction
+- 8x Kubernetes Cost Optimization
+- 20M+ Monthly Active Users Supported
 
 ---
 
-# 🏗 Production-Grade DevOps Project
+# 🏗 Featured Project – Scalable DevOps Platform
 
-## 🔷 Scalable Multi-Tenant EKS Platform
+## 📌 Architecture Overview
 
-### 📌 Architecture Diagram
+> Replace the image path below with your architecture diagram.
 
-> Replace with your own diagram
+![Project Architecture](./architecture-diagram.png)
+
+*(Recommended size: 1200px width PNG or SVG)*
+
+---
+
+## 🔧 Key Highlights
+
+### Infrastructure as Code
+- Designed modular Terraform + CDKTF framework (25+ modules)
+- On-demand provisioning
+- Remote state via S3
+- Parameter Store + Secrets Manager integration
+
+### Kubernetes
+- Multi-tenant cluster hosting 8 environments
+- Karpenter right-sizing
+- Separate node groups (stable vs ephemeral workloads)
+- Helm deployments
+- Linkerd service mesh
+
+### CI/CD
+- Centralized reusable GitLab CI pipelines
+- Downstream job orchestration
+- Trivy security scanning
+- SonarCloud quality checks
+- ArgoCD GitOps deployment
+- ArgoCD Image Updater
+
+### Monitoring & Observability
+- Prometheus
+- Grafana
+- Alertmanager
+- Loki + Promtail
+- Microsoft Teams automated alerts
+- Datadog distributed tracing (PoC & integration)
+
+### Security
+- AWS Organizations SCPs
+- Permission boundaries
+- Pritunl VPN for secure private access
+
+---
+
+# 💼 Experience
+
+## DevOps Engineer  
+**NiftyCoders Pvt. Ltd. | June 2022 – Present**
+
+### AppDevOps
+- Built modular IaC system reducing deployment time by 50%
+- Automated Aurora PostgreSQL & MySQL major version upgrades
+- Provisioned Milvus vector DB for recommendation engine
+- Managed MongoDB StatefulSets for high-performance caching
+- Configured GitLab Runners with concurrent Kubernetes scaling
+
+### SRE
+- Integrated BigPanda + ServiceNow for proactive incident management
+- Reduced client-reported outages
+- Developed automated functional testing tool reducing AWS Canary cost by 61%
+- Implemented daily IaC validation builds
+
+---
+
+## Software Engineer  
+**BJIT Ltd. | Oct 2019 – June 2022**
+
+- Developed scalable microservices (BFF pattern)
+- Improved UX by 40%
+- Built property-to-JSON converter reducing Redis load time by 70%
+
+**Tech:** Java Spring Boot, Java 11
+
+---
+
+## Junior Software Engineer  
+**Together Initiatives Ltd. | May 2018 – April 2019**
+
+- Built workflow automation solutions (30% efficiency gain)
+- Reduced paper trails by 40%
+- Increased customer satisfaction by 20%
+
+**Tech:** PHP5, JavaScript
+
+---
+
+# 🛠 Technical Skills
+
+### Languages
+`Python` `Bash`
+
+### Cloud (AWS)
+`EKS` `S3` `ECR` `CloudFront` `Lambda` `IAM` `OpenSearch`  
+`NAT Instance` `NAT Gateway` `MQ` `ElastiCache`
+
+### Kubernetes
+`Helm` `Linkerd`
+
+### Databases
+`MongoDB` `MySQL` `DocumentDB` `Aurora`
+
+### Tools
+`Terraform` `CDKTF` `GitLab CI` `ArgoCD` `Prometheus`  
+`Grafana` `Loki` `BigPanda` `ServiceNow` `Datadog`
+
+---
+
+# 🎓 Education
+
+**Bachelor of Science – Computer Science & Engineering**  
+Chittagong University of Engineering and Technology  
+2017
+
+---
+
+# 📫 Let's Connect
+
+If you're hiring for:
+- DevOps Engineer
+- Platform Engineer
+- Cloud Infrastructure Engineer
+- SRE
+
+Feel free to reach out 👋
