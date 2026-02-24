@@ -17,7 +17,7 @@
 
 <p align="center">
 📍 Dhaka, Bangladesh &nbsp; | &nbsp;
-📧 mrahmansabbir@gmail.com &nbsp; | &nbsp;
+📧 mrahmansabbir@gmail.com &nbsp;
 </p>
 
 ---
