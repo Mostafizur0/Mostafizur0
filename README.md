@@ -5,8 +5,7 @@
 [LeetCode](https://leetcode.com/Mostafizur0)  
 
 📍 Dhaka, Bangladesh  
-📧 mrahmansabbir@gmail.com  
-📱 +880 1831576862  
+📧 mrahmansabbir@gmail.com
 
 ---
 
